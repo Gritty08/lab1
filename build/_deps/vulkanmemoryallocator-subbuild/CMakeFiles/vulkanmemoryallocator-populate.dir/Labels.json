@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/vulkanmemoryallocator-populate"
+		},
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/4ab5245059f9b04904c8e24c6c1651b2/vulkanmemoryallocator-populate.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/50ef661b2174dc61e9d66d237fd775b5/vulkanmemoryallocator-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vulkanmemoryallocator-populate"
+		],
+		"name" : "vulkanmemoryallocator-populate"
+	}
+}

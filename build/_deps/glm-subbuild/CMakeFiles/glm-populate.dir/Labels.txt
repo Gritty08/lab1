@@ -1,0 +1,14 @@
+# Target labels
+ glm-populate
+# Source files and their labels
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/glm-populate
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/388e46ca84f3dfe17a7bd2bce2155054/glm-populate.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/41fa7fc2176e7b089a56c6d5e305d326/glm-populate-complete.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/c4e5d233f49cb5d9f1a51b9d9cad14da/glm-populate-build.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/c4e5d233f49cb5d9f1a51b9d9cad14da/glm-populate-configure.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/c4e5d233f49cb5d9f1a51b9d9cad14da/glm-populate-download.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/c4e5d233f49cb5d9f1a51b9d9cad14da/glm-populate-install.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/c4e5d233f49cb5d9f1a51b9d9cad14da/glm-populate-mkdir.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/c4e5d233f49cb5d9f1a51b9d9cad14da/glm-populate-patch.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/c4e5d233f49cb5d9f1a51b9d9cad14da/glm-populate-test.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/glm-subbuild/CMakeFiles/c4e5d233f49cb5d9f1a51b9d9cad14da/glm-populate-update.rule

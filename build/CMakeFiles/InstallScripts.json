@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/admin/Documents/lab1-main/build/cmake_install.cmake",
+		"C:/Users/admin/Documents/lab1-main/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/admin/Documents/lab1-main/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-build/cmake_install.cmake",
+		"C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-build/cmake_install.cmake",
+		"C:/Users/admin/Documents/lab1-main/build/_deps/glm-build/cmake_install.cmake",
+		"C:/Users/admin/Documents/lab1-main/build/_deps/glm-build/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

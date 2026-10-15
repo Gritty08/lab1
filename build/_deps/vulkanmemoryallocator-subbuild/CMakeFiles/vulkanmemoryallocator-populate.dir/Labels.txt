@@ -1,0 +1,14 @@
+# Target labels
+ vulkanmemoryallocator-populate
+# Source files and their labels
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/vulkanmemoryallocator-populate
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/4ab5245059f9b04904c8e24c6c1651b2/vulkanmemoryallocator-populate.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/50ef661b2174dc61e9d66d237fd775b5/vulkanmemoryallocator-populate-complete.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-build.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-configure.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-download.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-install.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-mkdir.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-patch.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-test.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vulkanmemoryallocator-subbuild/CMakeFiles/35286bad0871a560c2d36e5fb6ce2d4c/vulkanmemoryallocator-populate-update.rule

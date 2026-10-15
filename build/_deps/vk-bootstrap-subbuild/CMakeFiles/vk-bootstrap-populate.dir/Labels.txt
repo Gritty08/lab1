@@ -1,0 +1,14 @@
+# Target labels
+ vk-bootstrap-populate
+# Source files and their labels
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/vk-bootstrap-populate
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/53769b85d27b4f49e6cd0c39a4aee0cb/vk-bootstrap-populate.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/23316f77e8213ca47f4454ec4d1599fe/vk-bootstrap-populate-complete.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/d530499751a1a349b0875b89df02923c/vk-bootstrap-populate-build.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/d530499751a1a349b0875b89df02923c/vk-bootstrap-populate-configure.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/d530499751a1a349b0875b89df02923c/vk-bootstrap-populate-download.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/d530499751a1a349b0875b89df02923c/vk-bootstrap-populate-install.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/d530499751a1a349b0875b89df02923c/vk-bootstrap-populate-mkdir.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/d530499751a1a349b0875b89df02923c/vk-bootstrap-populate-patch.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/d530499751a1a349b0875b89df02923c/vk-bootstrap-populate-test.rule
+C:/Users/admin/Documents/lab1-main/build/_deps/vk-bootstrap-subbuild/CMakeFiles/d530499751a1a349b0875b89df02923c/vk-bootstrap-populate-update.rule

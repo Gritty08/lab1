@@ -1,0 +1,38 @@
+^C:\USERS\ADMIN\DOCUMENTS\LAB1-MAIN\BUILD\CMAKEFILES\EE691C42D96B17163C2508E4090117DB\OCTAHEDRON.FRAG.SPV.RULE
+setlocal
+glslc --target-env=vulkan1.0 C:/Users/admin/Documents/lab1-main/shaders/octahedron.frag -o C:/Users/admin/Documents/lab1-main/shaders/octahedron.frag.spv
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ADMIN\DOCUMENTS\LAB1-MAIN\BUILD\CMAKEFILES\EE691C42D96B17163C2508E4090117DB\OCTAHEDRON.VERT.SPV.RULE
+setlocal
+glslc --target-env=vulkan1.0 C:/Users/admin/Documents/lab1-main/shaders/octahedron.vert -o C:/Users/admin/Documents/lab1-main/shaders/octahedron.vert.spv
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ADMIN\DOCUMENTS\LAB1-MAIN\BUILD\CMAKEFILES\443EF59D10F9826A75628F5AE14E247A\SHADERS.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ADMIN\DOCUMENTS\LAB1-MAIN\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -SC:/Users/admin/Documents/lab1-main -BC:/Users/admin/Documents/lab1-main/build --check-stamp-file C:/Users/admin/Documents/lab1-main/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
